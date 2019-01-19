@@ -1,0 +1,24 @@
+{
+  "name": "js-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang-Yuchan/JS-DOM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kang-Yuchan/JS-DOM/issues"
+  },
+  "homepage": "https://github.com/Kang-Yuchan/JS-DOM#readme"
+}
